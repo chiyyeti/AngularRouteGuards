@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RouteGuards"
+    }
+  },
+  "defaultProject": "RouteGuards",
+  "cli": {
+    "analytics": false
+  }
 }
